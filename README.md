@@ -39,9 +39,11 @@ This app allows users to generate strong random passwords and save them along wi
 
 3. Run the Python script:
 
-python main.py
+   python main.py
 
 4. The app window will appear, and you can start generating and saving passwords.
+
+   ---
 
 📂 Project Files
 
@@ -50,3 +52,4 @@ main.py → Main Python script for the password manager
 logo.png → Logo image displayed in the app
 
 data.txt → File where website, email, and password are saved
+---
