@@ -1,6 +1,6 @@
 # Password Manager 🛡️
 
-A simple **Password Manager** built with Python and Tkinter.  
+A **Password Manager** built with Python and Tkinter.  
 This app allows users to generate strong random passwords and save them along with website and email information for easy management.
 
 ---
